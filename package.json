@@ -1,6 +1,6 @@
 {
   "name": "extplug-colored-users",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "license": "MIT",
   "description": "ExtPlug plugin that gives everyone a mostly-unique color.",
   "keywords": [
