@@ -7,6 +7,10 @@
   "keywords": [
     "extplug-plugin"
   ],
+  "files": [
+    "build",
+    "src"
+  ],
   "dependencies": {
     "onecolor": "^3.0.4"
   },
@@ -14,6 +18,7 @@
     "extplug-cli": "^1.0.0"
   },
   "scripts": {
+    "prepublishOnly": "npm run build -- --minify",
     "build": "extplug bundle src/main.js build/colored-users.js"
   }
 }
