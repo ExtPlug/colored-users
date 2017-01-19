@@ -4,7 +4,7 @@ Colored Users
 ExtPlug plugin that gives everyone a mostly-unique colour, so that you can
 identify people more easily.
 
-| ![Screenshot](https://i.imgur.com/UvdJ7pt.png) |
+| ![Screenshot](./img/combo.png) |
 |---|
 | Screenshot showing colours in the user list, wait list and chat. |
 
