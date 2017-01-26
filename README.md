@@ -1,6 +1,8 @@
 Colored Users
 =============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/extplug/colored-users.svg)](https://greenkeeper.io/)
+
 ExtPlug plugin that gives everyone a mostly-unique colour, so that you can
 identify people more easily.
 
